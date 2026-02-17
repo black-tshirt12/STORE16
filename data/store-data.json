@@ -194,7 +194,7 @@
   "content": {
     "home": {
       "heroEyebrow": "Ouarzazate . Morocco",
-      "heroTitle": "Pure Black. Pure Street.",
+      "heroTitle": "good",
       "heroSubtitle": "Black T-Shirt is a modern Moroccan streetwear brand built around one iconic piece: the perfect black tee. Minimal, premium and designed to live on the streets of Morocco.",
       "heroCtaPrice": "200 MAD",
       "heroMeta1": "Nationwide delivery across Morocco",
@@ -261,9 +261,9 @@
       "businessType": "Clothing brand focused on premium black T-shirts.",
       "priceInfo": "Flat price of 200 MAD per item.",
       "deliveryInfo": "Nationwide delivery across Morocco.",
-      "mapLat": 30.9198,
-      "mapLng": -6.8926,
-      "mapZoom": 14
+      "mapLat": "30.9198",
+      "mapLng": "-6.8926",
+      "mapZoom": "14"
     },
     "contact": {
       "eyebrow": "Contact",
